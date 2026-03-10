@@ -1,10 +1,4 @@
 
 *.zip
 __pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-venv/
-env/
-.DS_Store
-Thumbs.db
-.pdf
+*.pdf
